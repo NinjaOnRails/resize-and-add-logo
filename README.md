@@ -1,0 +1,1 @@
+Resizes all images in current working directory to fit in a 300x300 square, and adds the entered to the lower-right corner.
